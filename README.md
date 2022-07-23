@@ -1,7 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Awesome Books
-
 > A random list of roborts called the robofriends.
 
 
